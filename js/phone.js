@@ -94,4 +94,4 @@ const handleShowAll = () => {
 }
 
 // Initial load (you can remove this or keep it as per your need)
-// loadPhone('iphone');
+loadPhone('iphone');
